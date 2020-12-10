@@ -4,10 +4,15 @@ Bu, macOS Big Sur'da Asus N551VW-FY273T'yi yükleyebilmek için bir kılavuzdur.
 Anakart Adı Asus N551VW Series Notebook
 
 BIOS Sürümü N551VW.205
+
 CPU Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz - Skylake
+
 Anakart Cipseti Intel® HM170 Chipset
+
 Ekran Kartı NVIDIA® GeForce® GTX 960M
+
 Ekran Kartı Intel HD Graphics 530
+
 Ses Kartı Realtek ALC668
 Bellek 16247 MB (DDR4-2133 DDR4 SDRAM)
 DIMM1: Samsung M471A1G43DB0-CPB 8 GB DDR4-2133 DDR4 SDRAM
