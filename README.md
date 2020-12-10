@@ -34,7 +34,9 @@ Webcam USB2.0 HD UVC WebCam
 I2C HID Aygiti Touchpad ELAN1000
 
 Windows 10 Yüklü bilgisayarımızda Kendi bilgisayarımızın Donanımına özel DSDT.aml ve ACPI Dosyalarını Çıkartmakla başlayacağız bunun için https://github.com/corpnewt/SSDTTime yöntemi kullanılmaktadır.
-https://github.com/corpnewt/SSDTTime bu siteden indiriniz
+
+https://github.com/corpnewt/SSDTTime/archive/master.zip
+bu siteden indiriniz
 indirdikden sonra 2 tane dosyamız var biri bat uzantılı Windows için diğeri command uzantılı MacOS için. Ben Henüz MacOS kurmadınığınızı düşündüğümden windows üzerinden bat uzantılı dosya ile Uygulamayı çalıştırıyoruz.
 
 Gelen Ekranda Dump DSDT seçiyoruz. - Böylece DSDT.aml Dosyamızı oluşturmuş oluyoruz.
